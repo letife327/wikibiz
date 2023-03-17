@@ -1,0 +1,2 @@
+# wikibiz
+bu bir tapsiriqdir
